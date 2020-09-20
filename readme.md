@@ -37,4 +37,4 @@
 5. Since number of subscriber user is almost 8 times customer user, they define the trend when it comes to total count of rides over the year months. However cutomer user have bigger trip duration.
 
 ## Key Insights for Presentation
-
+- For the presentation, I focus on the influence of months, weekday, time and age group of bike trips data.
